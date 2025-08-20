@@ -22,9 +22,9 @@
 Ich baue gern **klare, performante .NET-Anwendungen** mit Fokus auf **ERP**, **Datenzugriff** und **saubere Architektur**.  
 Aktuell feile ich an Projekten in **WPF/WinForms** und **ASP.NET Core Razor Pages**.
 
-- 💡 Interesse: Clean Code, Testbarkeit, Logging/Tracing  
-- 🧰 Tools: Git, Azure DevOps, SSMS, MySQL Workbench  
-- 📍 Saarland, DE
+-  Interesse: Clean Code, Testbarkeit, Logging/Tracing  
+-  Tools: Git, Azure DevOps, SSMS, MySQL Workbench  
+-  Saarland, DE
 
 ---
 
