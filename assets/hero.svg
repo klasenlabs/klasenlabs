@@ -8,13 +8,20 @@
       <animate attributeName="x2" values="100%;0%" dur="6s" repeatCount="indefinite"/>
     </linearGradient>
     <style>
-      .title{ font: 800 72px system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial; }
-      .sub{ font: 500 22px ui-sans-serif, system-ui, Segoe UI, Roboto, Arial; opacity:.9 }
+      .title{ font: 800 72px system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, Arial; }
+      .sub{ font: 500 22px ui-sans-serif, system-ui, "Segoe UI", Roboto, Arial; opacity:.9 }
     </style>
   </defs>
+
   <rect width="1200" height="360" rx="24" fill="#0b0f19"/>
-  <g transform="translate(60,110)">
-    <text class="title" x="0" y="0" fill="url(#g)">klasenlabs</text>
-    <text class="sub"   x="0" y="56" fill="#E5E7EB">C#/.NET · ERP · WPF · Razor Pages · EF Core</text>
+  
+  <!-- zentrierter Block -->
+  <g text-anchor="middle">
+    <!-- Vertikal exakt mittig -->
+    <text class="title" x="50%" y="50%" dominant-baseline="middle" fill="url(#g)">klasenlabs</text>
+    <!-- Subline 56px darunter -->
+    <text class="sub"   x="50%" y="50%" dy="56" fill="#E5E7EB">
+      C#/.NET · ERP · WPF · Razor Pages · EF Core
+    </text>
   </g>
 </svg>
