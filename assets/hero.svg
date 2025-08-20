@@ -1,0 +1,20 @@
+<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="klasenlabs header">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#22C55E"/>
+      <animate attributeName="x1" values="0%;100%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;0%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <style>
+      .title{ font: 800 72px system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial; }
+      .sub{ font: 500 22px ui-sans-serif, system-ui, Segoe UI, Roboto, Arial; opacity:.9 }
+    </style>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="#0b0f19"/>
+  <g transform="translate(60,110)">
+    <text class="title" x="0" y="0" fill="url(#g)">klasenlabs</text>
+    <text class="sub"   x="0" y="56" fill="#E5E7EB">C#/.NET · ERP · WPF · Razor Pages · EF Core</text>
+  </g>
+</svg>
