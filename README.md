@@ -38,7 +38,7 @@ Aktuell arbeite ich an Projekten in **WPF/WinForms** und **ASP.NET Core Razor Pa
 ---
 
 ## Projekte
-Einige meiner Arbeiten (empfohlen: anpinnen der Repositories):  
+Einige meiner Arbeiten :  
 
 - Sichere WPF-Chat-App (AES-GCM + RSA, WhatsApp-ähnliches UI, MVVM)  
 - Razor Pages Statistik-Tool (MySQL, Charts, Grid-System, moderne UI)  
