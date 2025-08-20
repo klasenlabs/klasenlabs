@@ -19,7 +19,7 @@
 ---
 
 ## Über mich
-Ich entwickle **klare, performante .NET-Anwendungen** mit Schwerpunkt auf **ERP-Systeme**, **Datenzugriff** und **saubere Softwarearchitektur**.  
+Ich entwickle **klare, performante .NET-Anwendungen** mit Schwerpunkt auf **Datenzugriff**, **Design**, **Performance** und **saubere Softwarearchitektur**.  
 Aktuell arbeite ich an Projekten in **WPF/WinForms** und **ASP.NET Core Razor Pages**.
 
 - Clean Code, Testbarkeit, Logging/Tracing  
