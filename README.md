@@ -2,7 +2,7 @@
   <img src="assets/hero.svg" alt="klasenlabs – header" width="100%">
 </p>
 
-<h1 align="center">Hi, ich bin klasenlabs 👋</h1>
+<h1 align="center">Hi, ich bin klasenlabs</h1>
 <p align="center"><em>C#/.NET · ERP · WPF · Razor Pages · EF Core</em></p>
 
 <p align="center">
@@ -19,14 +19,36 @@
 ---
 
 ## Über mich
-Ich baue gern **klare, performante .NET-Anwendungen** mit Fokus auf **ERP**, **Datenzugriff** und **saubere Architektur**.  
-Aktuell feile ich an Projekten in **WPF/WinForms** und **ASP.NET Core Razor Pages**.
+Ich entwickle **klare, performante .NET-Anwendungen** mit Schwerpunkt auf **ERP-Systeme**, **Datenzugriff** und **saubere Softwarearchitektur**.  
+Aktuell arbeite ich an Projekten in **WPF/WinForms** und **ASP.NET Core Razor Pages**.
 
--  Interesse: Clean Code, Testbarkeit, Logging/Tracing  
--  Tools: Git, Azure DevOps, SSMS, MySQL Workbench  
--  Saarland, DE
+- Clean Code, Testbarkeit, Logging/Tracing  
+- Git, Azure DevOps, SSMS, MySQL Workbench  
+- Standort: Saarland, DE  
 
 ---
 
 ## Skills
-C#, .NET, WPF, WinForms, ASP.NET Core (Razor Pages), EF Core, SQL (SQL Server/MySQL), HTML/CSS, etwas JS, Azure DevOps
+**Desktop:** WPF, WinForms  
+**Web:** ASP.NET Core Razor Pages  
+**Data:** EF Core, SQL Server, MySQL  
+**Tools:** Git, Azure DevOps, SSMS, MySQL Workbench  
+**Weitere:** HTML/CSS, Grundkenntnisse in JavaScript  
+
+---
+
+## Projekte
+Einige meiner Arbeiten (empfohlen: anpinnen der Repositories):  
+
+- Sichere WPF-Chat-App (AES-GCM + RSA, WhatsApp-ähnliches UI, MVVM)  
+- Razor Pages Statistik-Tool (MySQL, Charts, Grid-System, moderne UI)  
+- WPF-Spiele (Snake, Solo-Billard – mit Highscore-System, Animationen, NAudio)  
+- User-Management in WPF (EF Core, MySQL, AWS Secrets Manager)  
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=klasenlabs&show_icons=true&theme=github_dark" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klasenlabs&layout=compact&theme=github_dark" height="160">
+</p>
