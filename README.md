@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, ich bin klasenlabs <span title="waving hand">👋</span></h1>
-<p align="center"><em>C#/.NET · ERP · WPF · Razor Pages · EF Core</em></p>
+<p align="center"><em>C#/.NET · WPF · Razor Pages · EF Core</em></p>
 
 <p align="center">
   <img src="assets/hero.svg" alt="klasenlabs – header" width="100%">
