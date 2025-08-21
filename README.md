@@ -80,22 +80,23 @@ Aktuell arbeite ich an Projekten in <strong>WPF/WinForms</strong> und <strong>AS
 
 <ul>
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lock/lock-original.svg" height="18" alt="Security"/>
+    <img src="https://unpkg.com/heroicons@2.1.5/24/solid/lock-closed.svg" height="18" alt="Security" style="vertical-align:text-bottom;"/>
     <strong> Sichere WPF-Chat-App</strong> — AES-GCM + RSA, WhatsApp-ähnliches UI, MVVM
   </li>
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="18" alt="MySQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="18" alt="MySQL" style="vertical-align:text-bottom;"/>
     <strong> Razor Pages Statistik-Tool</strong> — MySQL, Charts, Grid-System, moderne UI
   </li>
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="18" alt="Windows"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="18" alt="Windows" style="vertical-align:text-bottom;"/>
     <strong> WPF-Spiele</strong> — Snake, Solo-Billard (Highscore, Animationen, NAudio)
   </li>
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="18" alt="C#"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="18" alt="C#" style="vertical-align:text-bottom;"/>
     <strong> User-Management in WPF</strong> — EF Core, MySQL, AWS Secrets Manager
   </li>
 </ul>
+
 
 
 <details>
