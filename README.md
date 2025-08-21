@@ -39,7 +39,7 @@ Aktuell arbeite ich an Projekten in <strong>WPF/WinForms</strong> und <strong>AS
 
 <p>
   <marquee behavior="scroll" direction="left" scrollamount="5" style="white-space:nowrap;">
-    🛠️ Architektur · 🔒 Sicherheit · ⚡ Performance · 📊 Datenzugriff · 🎨 UI/UX
+     Architektur ·  Sicherheit ·  Performance ·  Datenzugriff ·  UI/UX
   </marquee>
 </p>
 
@@ -103,7 +103,6 @@ Aktuell arbeite ich an Projekten in <strong>WPF/WinForms</strong> und <strong>AS
   <summary>📸 Screens / Demos (GIF)</summary>
   <br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake GitHub contributions animation" />
-  <!-- Obiges ist ein bekannter Open-Source-Generator; kann später optional durch eigene GIFs ersetzt werden -->
 </details>
 
 <hr/>
